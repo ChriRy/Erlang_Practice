@@ -2,7 +2,7 @@
 
 This is a command line program built while learning to use the Erlang language. 
 
-[Software Demo Video](https://youtu.be/I9Yhx9ela_s)
+[Software Demo Video](https://youtu.be/1Be2YlAmewY)
 
 # Development Environment
 
